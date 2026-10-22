@@ -1,0 +1,6 @@
+{
+  "name": "ExtratoScan AI - Análise de Extratos e Maiores Gastos",
+  "description": "Envie seu PDF de extrato bancário para analisar transações automaticamente com IA, categorizar e filtrar onde você teve os maiores gastos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
